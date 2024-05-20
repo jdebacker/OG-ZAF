@@ -13,6 +13,7 @@ import datetime
 import statsmodels.api as sm
 from ogzaf.utils import get_legacy_session
 from io import StringIO
+import requests
 
 
 def get_macro_params():
